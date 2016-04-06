@@ -1,0 +1,12 @@
+{
+  "id": "/your-name/jirabot",
+  "container": {
+    "type": "DOCKER",
+    "docker": {
+      "image": "your-registry.com/name/jirabot:latest"
+    }
+  },
+  "instances": 1,
+  "cpus": 0.5,
+  "mem": 512
+}

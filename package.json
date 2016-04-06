@@ -1,0 +1,17 @@
+{
+	"name": "jirabot",
+	"version": "0.0.1",
+	"description": "A bot for making tickets in JIRA.",
+	"author": {
+		"name": "Cyle Gage"
+	},
+	"dependencies": {
+		"slack-client": "1.4.0"
+	},
+	"repository": {
+		"type" : "git",
+		"url" : "https://your-github.com/name/jirabot.git"
+	},
+	"private": true,
+	"license": "lol whatever"
+}
